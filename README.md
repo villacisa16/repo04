@@ -30,4 +30,4 @@ Antes de editar debemos situarnos en nuestra rama de la siguiente manera:
 
 ![ERROR](./img/img7.png)
 
-segunda versión
+tercera versión
