@@ -31,3 +31,12 @@ Antes de editar debemos situarnos en nuestra rama de la siguiente manera:
 ![ERROR](./img/img7.png)
 
 tercera versión
+
+**□ 4.5 – Haz 3 commits desde nuestra rama (adrian12092023)**
+
+![ERROR](./img/img8.png)
+
+**□ 4.6 – En el siguiente orden realiza lo siguiente:**
+**□ 4.6.1 – Fusiona tu rama con master:**
+
+**□ 4.6.2 – Haz un push hacía la nube**
