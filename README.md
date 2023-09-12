@@ -37,6 +37,13 @@ tercera versión
 ![ERROR](./img/img8.png)
 
 **□ 4.6 – En el siguiente orden realiza lo siguiente:**
+
 **□ 4.6.1 – Fusiona tu rama con master:**
 
+![ERROR](./img/img9.png)
+
 **□ 4.6.2 – Haz un push hacía la nube**
+
+![ERROR](./img/img10.png)
+
+□ 4.7 – Elimina solamente la rama en local david02032022 ya que si eliminásemos la remota no veríamos la rama en remoto.
