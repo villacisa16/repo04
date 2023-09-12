@@ -15,3 +15,17 @@ Y desde la terminal, con el comando "git clone", seguido del link, podremos clon
 ![ERROR](./img/img3.png)
 
 **□ 4.3 – Crea una rama con tu nombre y la fecha actual (por ejemplo en mi caso la rama se llamará david02032022) desde la cual editaremos el fichero**
+
+![ERROR](./img/img5.png)
+
+□ 4.4 – Desde tu rama (adrian12092023) edita el fichero readme.md de tal forma que quede de la siguiente
+manera:
+
+---
+# repo04
+
+Mi primer ejercicio con ramas
+
+Antes de editar debemos situarnos en nuestra rama de la siguiente manera:
+
+![ERROR](./img/img7.png)
