@@ -47,3 +47,13 @@ tercera versión
 ![ERROR](./img/img10.png)
 
 □ 4.7 – Elimina solamente la rama en local david02032022 ya que si eliminásemos la remota no veríamos la rama en remoto.
+
+![ERROR](./img/img11.png)
+
+□ 4.8 - Visualiza el resultado tanto mediante el comando git log --all --oneline -decorate –graph, como desde el pluging de VSC.
+
+**Terminal:**
+![ERROR](./img/img12.png)
+
+**VSC:**
+![ERROR](./img/img13.png)
